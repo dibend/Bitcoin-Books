@@ -20,13 +20,5 @@ A curated collection of Bitcoin-related resources, including:
 
 ---
 
-## **Programming Bitcoin: Learn How to Program Bitcoin from Scratch**
-- **Author**: Jimmy Song
-- **Description**: A hands-on guide to programming Bitcoin using Python, covering key concepts and practical implementation.
-- **Direct Download Link**: [Programming Bitcoin PDF](https://github.com/jimmysong/programmingbitcoin/raw/master/book.pdf)
-- **Source**: [Programming Bitcoin GitHub Repository](https://github.com/jimmysong/programmingbitcoin)
-
----
-
 ## Licensing
 Please refer to the individual licenses for each book. Ensure compliance with the respective licensing terms when using these resources.
